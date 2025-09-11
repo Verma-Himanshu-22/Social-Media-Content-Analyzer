@@ -1,1 +1,28 @@
 @import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #4b5563; /* Default dark gray thumb */
+  border-radius: 9999px;
+  border: 2px solid transparent;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background-color: #9ca3af; /* Lighter gray thumb for dark mode */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #374151;
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background-color: #6b7280;
+}
