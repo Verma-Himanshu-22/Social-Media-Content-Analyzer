@@ -19,7 +19,7 @@ This tool helps content creators, marketers, and businesses **evaluate content q
 
 This project follows a monorepo structure, with the frontend and backend code organized in separate directories.
 
-![Project Structure :](/assets/images/Screenshot%202025-09-11%20083301.png)
+![Project Structure 1](client/src/assets/images/Screenshot%202025-09-11%20083301.png)
 
 ---
 
@@ -77,9 +77,9 @@ VITE_API_URL=url_of_your_hosted_backend or localhost_url
 
 ## 📸 Screenshots :
 
-![](/assets/images/Screenshot%202025-09-11%20084645.png)
-![](/assets/images/Screenshot%202025-09-11%20084656.png)
-![](/assets/images/Screenshot%202025-09-11%20084705.png)
+![](client/src/assets/images/Screenshot%202025-09-11%20084645.png)
+![](client/src/assets/images/Screenshot%202025-09-11%20084656.png)
+![](client/src/assets/images/Screenshot%202025-09-11%20084705.png)
 
 ## 🤝 Contributing :
 
@@ -94,4 +94,5 @@ VITE_API_URL=url_of_your_hosted_backend or localhost_url
 
 
 - You are free to use, modify, and distribute this software in accordance with the terms of the MIT License.
+
 
