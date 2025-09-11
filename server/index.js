@@ -5,7 +5,7 @@ require("dotenv").config();
 const analysisRoutes = require("./routes/analysis.routes");
 
 const app = express();
-const PORT = process.env.PORT || 5001;
+const PORT = process.env.PORT || 5002;
 
 // --- CORS Configuration ---
 // Define the list of allowed origins (front-end URLs)
