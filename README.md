@@ -1,9 +1,6 @@
 # 📊 Social Media Content Analyzer
 
  [![Version](https://img.shields.io/badge/version-1.0.0-yellow)](package.json)  
-[![Contributors](https://img.shields.io/github/contributors/your-username/social-media-content-analyzer)](https://github.com/your-username/social-media-content-analyzer/graphs/contributors)  
-[![Issues](https://img.shields.io/github/issues/your-username/social-media-content-analyzer)](https://github.com/your-username/social-media-content-analyzer/issues)  
-[![Stars](https://img.shields.io/github/stars/your-username/social-media-content-analyzer)](https://github.com/your-username/social-media-content-analyzer/stargazers)
 
 ---
 
@@ -22,7 +19,7 @@ This tool helps content creators, marketers, and businesses **evaluate content q
 
 This project follows a monorepo structure, with the frontend and backend code organized in separate directories.
 
-![Project Structure :](client\src\assets\images\Screenshot 2025-09-11 083301.png)
+![Project Structure :](/assets/images/Screenshot 2025-09-11 083301.png)
 
 ---
 
@@ -37,7 +34,7 @@ This project follows a monorepo structure, with the frontend and backend code or
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 ```
 git clone https://github.com/your-username/social-media-content-analyzer.git
@@ -80,9 +77,9 @@ VITE_API_URL=url_of_your_hosted_backend or localhost_url
 
 ## 📸 Screenshots :
 
-(client\src\assets\images\Screenshot 2025-09-11 084645.png)
-(client\src\assets\images\Screenshot 2025-09-11 084656.png)
-(client\src\assets\images\Screenshot 2025-09-11 084705.png)
+- (/assets/images/Screenshot 2025-09-11 084645.png)
+- (/assets/images/Screenshot 2025-09-11 084656.png)
+- (/assets/images/Screenshot 2025-09-11 084705.png)
 
 ## 🤝 Contributing :
 
@@ -94,5 +91,6 @@ VITE_API_URL=url_of_your_hosted_backend or localhost_url
 ## 📜 License
 
 - Copyright © 2025 Himanshu Verma. 
+
 
 - You are free to use, modify, and distribute this software in accordance with the terms of the MIT License.
